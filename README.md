@@ -8,7 +8,9 @@ To get started, you will need to have Docker installed on your machine. You can 
 Once you have Docker installed, you can build and run the ToDo API using the following commands:
 
 ## Docker command Code
+
 docker compose-up
+
 This will build a Docker image for the ToDo API and start a container running the API on port 8080. You can then access the API by navigating to http://localhost:8080/api/tasks in your web browser or using a tool like Postman to send HTTP requests to the API endpoints.
 
 ## API Endpoints
