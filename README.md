@@ -7,7 +7,7 @@ To get started, you will need to have Docker installed on your machine. You can 
 
 Once you have Docker installed, you can build and run the ToDo API using the following commands:
 
-## Docker command Code
+## Docker Command
 
 docker compose-up
 
